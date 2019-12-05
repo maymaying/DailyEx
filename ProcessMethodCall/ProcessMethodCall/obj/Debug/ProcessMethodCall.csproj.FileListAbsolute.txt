@@ -1,0 +1,9 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\bin\Debug\ProcessMethodCall.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.csprojResolveAssemblyReference.cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.Form1.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.Properties.Resources.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.csproj.GenerateResource.Cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\ProcessMethodCall\ProcessMethodCall\obj\Debug\ProcessMethodCall.pdb
