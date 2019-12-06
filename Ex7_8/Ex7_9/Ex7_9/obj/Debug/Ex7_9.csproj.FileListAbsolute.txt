@@ -1,0 +1,5 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_9\Ex7_9\bin\Debug\Ex7_9.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_9\Ex7_9\obj\Debug\Ex7_9.csprojResolveAssemblyReference.cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_9\Ex7_9\obj\Debug\Ex7_9.Form1.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_9\Ex7_9\obj\Debug\Ex7_9.Properties.Resources.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_9\Ex7_9\obj\Debug\Ex7_9.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\bin\Debug\Ex7_8.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\bin\Debug\Ex7_8.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\bin\Debug\Ex7_8.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\obj\Debug\Ex7_8.Form1.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\obj\Debug\Ex7_8.Properties.Resources.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\obj\Debug\Ex7_8.csproj.GenerateResource.Cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\obj\Debug\Ex7_8.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\Ex7_8\Ex7_8\obj\Debug\Ex7_8.pdb
